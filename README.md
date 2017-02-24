@@ -1,0 +1,1 @@
+implementing the code from the [Jupyter Notebook documentation](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Importing%20Notebooks.html) that lets you import a Notebook (either into another Notebook or into a stand-alone script).
